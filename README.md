@@ -1,6 +1,6 @@
 # Cyclistic Bike-Share Analytics: Behavioral Optimization & Membership Conversion
 
-Link to Live Interactive Dashboard: [👉 View Live Dashboard Here](https://YOUR_STREAMLIT_APP_LINK.streamlit.app)
+Link to Live Interactive Dashboard: [👉 View Live Dashboard Here](https://cyclistic-bike-share.streamlit.app/)
 
 ## 📌 Executive Bugt siness Case & Problem Statement
 Cyclistic’s financial viability relies heavily on high-margin annual memberships. The objective of this study is to perform deep behavioral diagnosis on customer segments (**Casual Riders** vs. **Annual Members**) to isolate exactly why, when, and how casual riders use the fleet. 
